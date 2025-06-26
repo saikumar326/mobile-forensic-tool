@@ -50,4 +50,5 @@ It is GUI interface user frendly.
 It is not full developed but it works for non rooted devices and root devices also.
 Some features are for rooted devices. but few features will not work for non rooted devices.
 ![Screenshot 2025-03-20 105330](https://github.com/user-attachments/assets/68fddf3a-12bf-41c7-ae2f-5935d719a5ac)
+![Screenshot 2025-03-20 105611](https://github.com/user-attachments/assets/67beb598-3fbf-4b61-9f78-0a1f0d58c85f)
 
