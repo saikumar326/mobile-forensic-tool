@@ -49,3 +49,5 @@ Install require libraries in python will running.
 It is GUI interface user frendly.
 It is not full developed but it works for non rooted devices and root devices also.
 Some features are for rooted devices. but few features will not work for non rooted devices.
+![Screenshot 2025-03-20 105330](https://github.com/user-attachments/assets/68fddf3a-12bf-41c7-ae2f-5935d719a5ac)
+
